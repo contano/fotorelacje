@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>fotorelacje</title>
+    <link href="https://fotorelacje.contano.xyz/feed.xml" rel="self" />
+    <link href="https://fotorelacje.contano.xyz" />
+    <updated>2024-02-04T22:16:08+01:00</updated>
+    <author>
+        <name>Jacek</name>
+    </author>
+    <id>https://fotorelacje.contano.xyz</id>
+
+    <entry>
+        <title>Gdańsk - miasto pełne historii i uroku</title>
+        <author>
+            <name>Jacek</name>
+        </author>
+        <link href="https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html"/>
+        <id>https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html</id>
+        <media:content url="https://fotorelacje.contano.xyz/media/posts/11/gdansk-2.jpg" medium="image" />
+            <category term="pejzaż miejski"/>
+            <category term="Viltrox 23mm F1.4"/>
+            <category term="Fujifilm X-T3"/>
+
+        <updated>2024-02-04T22:16:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fotorelacje.contano.xyz/media/posts/11/gdansk-2.jpg" alt="fotorelacja z Gdańska" />
+                    Dzisiaj chciałbym podzielić się z wami moimi wrażeniami z wizyty w Gdańsku, jednym z najpiękniejszych i najciekawszych miast w Polsce.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fotorelacje.contano.xyz/media/posts/11/gdansk-2.jpg" class="type:primaryImage" alt="fotorelacja z Gdańska" /></p>
+                
+  <p>
+    Dzisiaj chciałbym podzielić się z wami moimi wrażeniami z wizyty w Gdańsku, jednym z najpiękniejszych i najciekawszych miast w Polsce. Byłem tam latem 2023 roku wraz z rodziną i spędziliśmy w tym malowniczym mieście kilka dni podziwiając zabytki, kulturę i atmosferę tego niezwykłego miejsca.
+  </p>
+
+    <h2 id="gdansk-to-miasto-o-bogatej-historii">
+      Gdańsk to miasto o bogatej historii
+    </h2>
+
+  <p>
+    Jednym z najbardziej charakterystycznych elementów Gdańska jest jego architektura. Miasto zachowało wiele zabytkowych kamienic, kościołów, bram i innych budowli, które tworzą malowniczy krajobraz. W historycznym centrum Gdańska można podziwiać takie perły architektury jak Bazylika Mariacka, Ratusz Głównego Miasta, Fontanna Neptuna, Dwór Artusa czy Złota Brama.
+  </p>
+
+    <h2 id="kultura-i-sztuka-przyciagaja-do-gdanska">
+      Kultura i sztuka przyciągają do Gdańska.
+    </h2>
+
+  <p>
+    Miasto jest siedzibą wielu instytucji i placówek kulturalnych, takich jak Teatr Szekspirowski, Europejskie Centrum Solidarności, Muzeum II Wojny Światowej, Muzeum Narodowe czy Filharmonia Bałtycka. W Gdańsku odbywają się też liczne festiwale, koncerty i wydarzenia artystyczne, które przyciągają zarówno mieszkańców, jak i turystów.
+  </p>
+
+    <h2 id="miejscem-ktore-zrobilo-na-nas-szczegolne-wrazenie-jest-muzeum-bursztynu">
+      Miejscem, które zrobiło na nas szczególne wrażenie jest Muzeum Bursztynu.
+    </h2>
+
+  <p>
+    Mieści się ono w dawnym więzieniu, które zostało zaadaptowane na potrzeby wystawy. Muzeum prezentuje historię, właściwości i zastosowanie bursztynu, czyli słynnego "złota Bałtyku". Można tam zobaczyć niezwykłe eksponaty, takie jak biżuterię, rzeźby a nawet całe wnętrza zdobione bursztynem. Muzeum oferuje też warsztaty i pokazy, w których można dowiedzieć się, jak obrabia się i wycenia bursztyn.
+  </p>
+
+    <h2 id="fotorelacja-z-gdanska">
+      Fotorelacja z Gdańska
+    </h2>
+
+  <p>
+    Zapraszam do obejrzenia galerii zdjęć, w której znalazły się ujęcia zarówno z ulic Gdańska jak i z wnętrza Muzeum Bursztynu. Wszystkie fotografie zrobiłem aparatem Fujifilm X-T3 z obiektywem Viltrox 23mm F1.4.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

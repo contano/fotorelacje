@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fotorelacje",
+    "description": "",
+    "home_page_url": "https://fotorelacje.contano.xyz",
+    "feed_url": "https://fotorelacje.contano.xyz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jacek"
+    },
+    "items": [
+        {
+            "id": "https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html",
+            "url": "https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html",
+            "title": "Gdańsk - miasto pełne historii i uroku",
+            "summary": "Dzisiaj chciałbym podzielić się z wami moimi wrażeniami z wizyty w Gdańsku, jednym z najpiękniejszych i najciekawszych miast w Polsce.",
+            "content_html": "\n  <p>\n    Dzisiaj chciałbym podzielić się z wami moimi wrażeniami z wizyty w Gdańsku, jednym z najpiękniejszych i najciekawszych miast w Polsce. Byłem tam latem 2023 roku wraz z rodziną i spędziliśmy w tym malowniczym mieście kilka dni podziwiając zabytki, kulturę i atmosferę tego niezwykłego miejsca.\n  </p>\n\n    <h2 id=\"gdansk-to-miasto-o-bogatej-historii\">\n      Gdańsk to miasto o bogatej historii\n    </h2>\n\n  <p>\n    Jednym z najbardziej charakterystycznych elementów Gdańska jest jego architektura. Miasto zachowało wiele zabytkowych kamienic, kościołów, bram i innych budowli, które tworzą malowniczy krajobraz. W historycznym centrum Gdańska można podziwiać takie perły architektury jak Bazylika Mariacka, Ratusz Głównego Miasta, Fontanna Neptuna, Dwór Artusa czy Złota Brama.\n  </p>\n\n    <h2 id=\"kultura-i-sztuka-przyciagaja-do-gdanska\">\n      Kultura i sztuka przyciągają do Gdańska.\n    </h2>\n\n  <p>\n    Miasto jest siedzibą wielu instytucji i placówek kulturalnych, takich jak Teatr Szekspirowski, Europejskie Centrum Solidarności, Muzeum II Wojny Światowej, Muzeum Narodowe czy Filharmonia Bałtycka. W Gdańsku odbywają się też liczne festiwale, koncerty i wydarzenia artystyczne, które przyciągają zarówno mieszkańców, jak i turystów.\n  </p>\n\n    <h2 id=\"miejscem-ktore-zrobilo-na-nas-szczegolne-wrazenie-jest-muzeum-bursztynu\">\n      Miejscem, które zrobiło na nas szczególne wrażenie jest Muzeum Bursztynu.\n    </h2>\n\n  <p>\n    Mieści się ono w dawnym więzieniu, które zostało zaadaptowane na potrzeby wystawy. Muzeum prezentuje historię, właściwości i zastosowanie bursztynu, czyli słynnego \"złota Bałtyku\". Można tam zobaczyć niezwykłe eksponaty, takie jak biżuterię, rzeźby a nawet całe wnętrza zdobione bursztynem. Muzeum oferuje też warsztaty i pokazy, w których można dowiedzieć się, jak obrabia się i wycenia bursztyn.\n  </p>\n\n    <h2 id=\"fotorelacja-z-gdanska\">\n      Fotorelacja z Gdańska\n    </h2>\n\n  <p>\n    Zapraszam do obejrzenia galerii zdjęć, w której znalazły się ujęcia zarówno z ulic Gdańska jak i z wnętrza Muzeum Bursztynu. Wszystkie fotografie zrobiłem aparatem Fujifilm X-T3 z obiektywem Viltrox 23mm F1.4.\n  </p>",
+            "image": "https://fotorelacje.contano.xyz/media/posts/11/gdansk-2.jpg",
+            "author": {
+                "name": "Jacek"
+            },
+            "tags": [
+                   "pejzaż miejski",
+                   "Viltrox 23mm F1.4",
+                   "Fujifilm X-T3"
+            ],
+            "date_published": "2024-02-04T21:12:20+01:00",
+            "date_modified": "2024-02-04T22:16:08+01:00"
+        }
+    ]
+}
