@@ -21,10 +21,11 @@
                 "name": "Contano"
             },
             "tags": [
+                   "fotoreportaż",
                    "Suchedniów"
             ],
             "date_published": "2024-06-23T17:29:03+02:00",
-            "date_modified": "2024-06-23T18:27:55+02:00"
+            "date_modified": "2024-06-24T20:44:44+02:00"
         },
         {
             "id": "https://fotorelacje.contano.xyz/trzydniowy-wypad-na-sycylie.html",
@@ -37,12 +38,13 @@
                 "name": "Contano"
             },
             "tags": [
+                   "podróże",
                    "pejzaż miejski",
                    "krajobrazy",
                    "Sycylia"
             ],
             "date_published": "2024-04-05T20:47:01+02:00",
-            "date_modified": "2024-04-05T21:40:25+02:00"
+            "date_modified": "2024-06-24T20:52:50+02:00"
         },
         {
             "id": "https://fotorelacje.contano.xyz/fotografowanie-kwiatow-moja-osobista-podroz-przez-swiat-kolorow-i-zapachow.html",
@@ -88,11 +90,12 @@
                 "name": "Contano"
             },
             "tags": [
+                   "podróże",
                    "pejzaż miejski",
                    "Gdańsk"
             ],
             "date_published": "2024-02-04T21:12:20+01:00",
-            "date_modified": "2024-02-06T17:47:51+01:00"
+            "date_modified": "2024-06-24T20:52:37+02:00"
         }
     ]
 }

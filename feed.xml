@@ -3,7 +3,7 @@
     <title>fotorelacje</title>
     <link href="https://fotorelacje.contano.xyz/feed.xml" rel="self" />
     <link href="https://fotorelacje.contano.xyz" />
-    <updated>2024-06-24T18:01:50+02:00</updated>
+    <updated>2024-06-24T20:52:50+02:00</updated>
     <author>
         <name>Contano</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://fotorelacje.contano.xyz/swieto-blota-2024-tradycja-i-wspolnota.html"/>
         <id>https://fotorelacje.contano.xyz/swieto-blota-2024-tradycja-i-wspolnota.html</id>
         <media:content url="https://fotorelacje.contano.xyz/media/posts/15/swiet-blota-2024.jpg" medium="image" />
+            <category term="fotoreportaż"/>
             <category term="Suchedniów"/>
 
         <updated>2024-06-23T17:29:03+02:00</updated>
@@ -1120,6 +1121,7 @@
         <link href="https://fotorelacje.contano.xyz/trzydniowy-wypad-na-sycylie.html"/>
         <id>https://fotorelacje.contano.xyz/trzydniowy-wypad-na-sycylie.html</id>
         <media:content url="https://fotorelacje.contano.xyz/media/posts/14/Sycylia-2.jpg" medium="image" />
+            <category term="podróże"/>
             <category term="pejzaż miejski"/>
             <category term="krajobrazy"/>
             <category term="Sycylia"/>
@@ -2037,6 +2039,7 @@
         <link href="https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html"/>
         <id>https://fotorelacje.contano.xyz/gdansk-miasto-pelne-historii-i-uroku.html</id>
         <media:content url="https://fotorelacje.contano.xyz/media/posts/11/gdansk-2.jpg" medium="image" />
+            <category term="podróże"/>
             <category term="pejzaż miejski"/>
             <category term="Gdańsk"/>
 
